@@ -1,4 +1,6 @@
-# Xtech1
+XTech1
+# git commit -m "Add hompage content"
+git push
 <!DOCTYPE html>
 <html lang="en">
 <head>
